@@ -44,7 +44,7 @@ Before you run the project you should initialize the BraintreeGateway with your 
 
 ## Author
 
-* **[Stavros Dimopoulos](https://github.com/StavrosD) **
+**[Stavros Dimopoulos](https://github.com/StavrosD) **
 
 [My LinkedIn profile](https://www.linkedin.com/in/stavrosdim/)
 
