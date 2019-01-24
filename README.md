@@ -45,7 +45,9 @@ Before you run the project you should initialize the BraintreeGateway with your 
 ## Author
 
 * **[Stavros Dimopoulos](https://github.com/StavrosD) **
+
 [My LinkedIn profile](https://www.linkedin.com/in/stavrosdim/)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
