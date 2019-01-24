@@ -5,7 +5,12 @@ There are many posts on every forum with people having problems with this integr
 
 This project has the minimum code needed to do the job. It is mostly for proof of concept but it works 100% fine!
 
-The latest Braintree 
+The latest Braintree SDK is used.
+- Braintree 4.8.0.0 library for .NET
+- Braintree Javascript 3.42.0 for the client.
+
+** Please "star" this repo if you find it usefull.
+
 ## How it works
 
 It is impossible to complete a transaction in a single page.
