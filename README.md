@@ -9,7 +9,7 @@ The latest Braintree SDK is used.
 - Braintree 4.8.0.0 library for .NET
 - Braintree Javascript 3.42.0 for the client.
 
-** Please "star" this repo if you find it usefull. **
+**Please "star" this repo if you find it usefull.**
 
 ## How it works
 
@@ -49,7 +49,7 @@ Before you run the project you should initialize the BraintreeGateway with your 
 
 ## Author
 
-**[Stavros Dimopoulos](https://github.com/StavrosD) **
+**[Stavros Dimopoulos](https://github.com/StavrosD)**
 
 [My LinkedIn profile](https://www.linkedin.com/in/stavrosdim/)
 
