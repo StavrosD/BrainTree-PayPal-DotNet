@@ -62,4 +62,4 @@ I've seen this button many times, I do not know how it works but I guess it is n
 
 ## Credits
 
-I got the PayPal image from here: https://ubuntubudgie.org/contribute
+I got the PayPal image from [this page](https://ubuntubudgie.org/contribute).
