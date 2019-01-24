@@ -58,4 +58,4 @@ It's my first open source projet.
 
 I've seen this button many times, I do not know how it works but I guess it is not a bad idea to have it in my project repo ;-)
 
-[![Support via PayPal](support_paypal.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K94L2LGP4CWBL&source=url)
+[![Support via PayPal](support_paypal.svg =200x)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K94L2LGP4CWBL&source=url)
