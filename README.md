@@ -36,6 +36,13 @@ Right click on the project you want to run and select "Set as startup project."
 3. The PayPal account is linked to the Braintree account.
 4. ![API keys](https://articles.Braintreepayments.com/control-panel/important-gateway-credentials#api-credentials)
 
+*Be very careful with your API credentials!*
+1.	Do not share them with anyone!
+2.	Create sandbox accounts on both PayPal and Braintree. Use the sandbox accounts for development. Replace the sandbox credentials with the production credentials only when you are ready to put the app in production. 
+3.	Be very careful if you publish your project on GitHub. Clear your credentials before publishing the project.
+
+
+
 ## Installation
 
 Before you run the project you should initialize the BraintreeGateway with your API credentials. 
