@@ -1,4 +1,4 @@
-# Braintree-Paypal working example for C# and VB.NET
+# Braintree-Paypal drop-in working example for C# and VB.NET
 
 I could not find a working example for PayPal and Braintree integration with ASP.NET webforms so I made one.
 There are many posts on every forum with people having problems with this integration. The paypal script intercepts the normal .net page flow and it is impossible to complete a transaction.
