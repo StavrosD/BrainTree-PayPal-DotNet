@@ -68,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 It's my first open source projet.
 
-I've seen this button many times, I do not know how it works but I guess it is not a bad idea to have it in my project repo ;-)
+I've seen this button many times, I do not know what it does ( :-p ) but I guess it is not a bad idea to have it in my project repo ;-)
 
 [![Support via PayPal](support_paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K94L2LGP4CWBL&source=url)
 
